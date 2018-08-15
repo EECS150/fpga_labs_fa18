@@ -1,0 +1,5 @@
+build
+*spec.aux
+*spec.log
+*spec.tex
+*spec.out
