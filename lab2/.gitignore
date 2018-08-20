@@ -1,0 +1,7 @@
+build
+*spec.aux
+*spec.log
+*spec.tex
+*spec.out
+*spec.pyg
+_minted-lab2_spec/
