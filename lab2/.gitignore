@@ -1,8 +1,0 @@
-build
-*spec.aux
-*spec.log
-*spec.tex
-*spec.out
-*spec.pyg
-lab2_spec.synctex.gz
-_minted-lab2_spec/
