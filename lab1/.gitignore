@@ -3,3 +3,7 @@ build
 *spec.log
 *spec.tex
 *spec.out
+*spec.pyg
+.DS_Store
+_minted-lab1_spec/
+lab1_spec.synctex.gz
