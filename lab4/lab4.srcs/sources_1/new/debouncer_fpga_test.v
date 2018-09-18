@@ -5,7 +5,8 @@ module debouncer_fpga_test (
     input [3:0] BUTTONS,        // Momentary push-buttons.
     input [1:0] SWITCHES,       // [UNUSED] Slide switches.
     output [5:0] LEDS,          // Board LEDs.
-    output aud_pwm            // [UNUSED] Audio output.
+    output aud_pwm,            // [UNUSED] Audio output.
+    output aud_sd               // [UNUSED] Audio shutdown.
 );
     // Here are some time constants used for the button debouncer
     localparam integer B_SAMPLE_COUNT_MAX = 0.00076 * `CLOCK_FREQ;
