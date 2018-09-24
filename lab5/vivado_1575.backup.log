@@ -1,0 +1,22 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:54:30 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Thu Sep 20 18:14:59 2018
+# Process ID: 1575
+# Current directory: /home/cc/eecs151/fa18/staff/eecs151-tab/eecs151_teaching/Labs/fa18_fpga_solutions/lab5/lab5
+# Command line: vivado
+# Log file: /home/cc/eecs151/fa18/staff/eecs151-tab/eecs151_teaching/Labs/fa18_fpga_solutions/lab5/lab5/vivado.log
+# Journal file: /home/cc/eecs151/fa18/staff/eecs151-tab/eecs151_teaching/Labs/fa18_fpga_solutions/lab5/lab5/vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project /home/cc/eecs151/fa18/staff/eecs151-tab/eecs151_teaching/Labs/fa18_fpga_solutions/lab5/lab5/lab5.xpr
+INFO: [Project 1-313] Project file moved from '/home/arya/teaching/eecs151-sp18/fpga_labs/staging/lab5/lab5' since last save.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository '/opt/Xilinx/Vivado/current/data/ip'.
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Thu Sep 20 18:18:46 2018...
