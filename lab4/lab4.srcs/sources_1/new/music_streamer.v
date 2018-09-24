@@ -17,7 +17,7 @@ module music_streamer (
     output [23:0] tone
 );
     reg [9:0] tone_index;
-    reg [22:0] clock_counter;
+    reg [23:0] clock_counter;
     rom music_data (
         .address(tone_index),       // 10 bits
         .data(tone),                // 24 bits
